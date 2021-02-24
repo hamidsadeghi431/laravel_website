@@ -18,3 +18,8 @@ Route::get('/',[\App\Http\Controllers\front\HomeController::class,"index"]);
 Auth::routes();
 
 Route::get('/home', [App\Http\Controllers\HomeController::class, 'index'])->name('home');
+Route::middleware('auth')->prefix('administrator')->group(function ()
+{
+    Route::resource('/panel',\App\Http\Controllers\administrator\PanelController::class);
+}
+);

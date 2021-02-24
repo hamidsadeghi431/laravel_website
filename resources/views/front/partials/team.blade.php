@@ -13,7 +13,7 @@
                 <div class="team-member">
                     <div class="image-wrapper">
                         <img class="img-fluid" src={{asset("front/images/team-1.png")}} alt="alternative">
-                    </div> <!-- end of image-wrapper -->
+                    </div> <!-- end of images-wrapper -->
                     <p class="p-large">John Whitelong</p>
                     <p class="job-title">General Manager</p>
                     <span class="social-icons">
@@ -37,7 +37,7 @@
                 <div class="team-member">
                     <div class="image-wrapper">
                         <img class="img-fluid" src={{asset("front/images/team-2.png")}} alt="alternative">
-                    </div> <!-- end of image wrapper -->
+                    </div> <!-- end of images wrapper -->
                     <p class="p-large">Veronique Smith</p>
                     <p class="job-title">Business Developer</p>
                     <span class="social-icons">
@@ -61,7 +61,7 @@
                 <div class="team-member">
                     <div class="image-wrapper">
                         <img class="img-fluid" src={{asset("front/images/team-3.png")}} alt="alternative">
-                    </div> <!-- end of image wrapper -->
+                    </div> <!-- end of images wrapper -->
                     <p class="p-large">Chris Zimerman</p>
                     <p class="job-title">Online Marketer</p>
                     <span class="social-icons">
@@ -85,7 +85,7 @@
                 <div class="team-member">
                     <div class="image-wrapper">
                         <img class="img-fluid" src={{asset("front/images/team-4.png")}} alt="alternative">
-                    </div> <!-- end of image wrapper -->
+                    </div> <!-- end of images wrapper -->
                     <p class="p-large">Mary Villalonga</p>
                     <p class="job-title">Community Manager</p>
                     <span class="social-icons">

@@ -4,7 +4,7 @@
             <div class="col-lg-5 col-xl-6">
                 <div class="image-container">
                     <img class="img-fluid" src={{asset("front/images/about.jpg")}} alt="alternative">
-                </div> <!-- end of image-container -->
+                </div> <!-- end of images-container -->
             </div> <!-- end of col -->
             <div class="col-lg-7 col-xl-6">
                 <div class="text-container">

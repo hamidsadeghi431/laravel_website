@@ -46,7 +46,7 @@
 <script src={{asset("front/js/popper.min.js")}}></script> <!-- Popper tooltip library for Bootstrap -->
 <script src={{asset("front/js/bootstrap.min.js")}}></script> <!-- Bootstrap framework -->
 <script src={{asset("front/js/jquery.easing.min.js")}}></script> <!-- jQuery Easing for smooth scrolling between anchors -->
-<script src={{asset("front/js/swiper.min.js")}}></script> <!-- Swiper for image and text sliders -->
+<script src={{asset("front/js/swiper.min.js")}}></script> <!-- Swiper for images and text sliders -->
 <script src={{asset("front/js/jquery.magnific-popup.js")}}></script> <!-- Magnific Popup for lightboxes -->
 <script src={{asset("front/js/morphext.min.js")}}></script> <!-- Morphtext rotating text in the header -->
 <script src={{asset("front/js/isotope.pkgd.min.js")}}></script> <!-- Isotope for filter -->
